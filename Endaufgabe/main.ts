@@ -13,6 +13,7 @@ namespace Endaufgabe {
     export let crc2: CanvasRenderingContext2D;
     window.addEventListener("load", bar);
 
+    
     let objects: MovingObjects[] = [];
 
 
