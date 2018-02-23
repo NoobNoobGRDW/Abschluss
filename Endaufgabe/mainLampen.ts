@@ -9,6 +9,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 
 namespace Endaufgabe {
 
+    
     export class Lampe extends MovingObjects {
 
         x: number;

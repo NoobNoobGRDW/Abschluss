@@ -8,7 +8,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 */
 
 namespace Endaufgabe {
-
+    
     export class MovingObjects {
 
         x: number;
