@@ -1,0 +1,69 @@
+/*
+Aufgabe: Semesteraufgabe
+Name: Kuenz,Linus
+Matrikel: 256331
+Datum: 14.02.18
+	
+Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde nicht kopiert und auch nicht diktiert.
+*/
+body {
+	text-align: center;
+	background-color: #909090;
+}
+
+h1 {
+	font-family: 'Monoton', cursive;
+	color: #8a1313;
+	font-size: 3em;
+	margin: -0.1em;
+	margin-top: -0.4em;
+	padding: 0.0em;
+}
+
+h2 {
+	font-family: 'Monoton', cursive;
+	color: #0F0F0F;
+	background-color: #909090;
+	opacity: 0.6;
+	position: absolute;
+	font-size: 3em;
+	width: 100%;
+	margin-top: 10.5em;
+}
+
+h2:hover {
+	color: #8a1313;
+	opacity: 0.9;
+}
+
+h3 {
+	font-family: 'Monoton', cursive;
+	color: #FFFFFF;
+	position: absolute;
+	opacity: 0.8;
+	font-size: 1.5em;
+	width: 100%;
+	margin-top: 11em;
+}
+
+p {
+	font-family: 'Noto Sans', cursive;
+	color: #0F0F0F;
+	position: absolute;
+	font-size: 2em;
+	width: 100%;
+	margin-top: 15.4em;
+}
+
+#WHITE {
+	font-family: 'Noto Sans', cursive;
+	color: #FF0000;
+	position: absolute;
+	font-size: 2em;
+	width: 100%;
+	margin-top: 13em;
+}
+
+audio {
+	display: none;
+}
